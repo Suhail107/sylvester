@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2XNHUpFkGv817BV,4x-|" x="6" y="24"></block><block type="device_forever" id="P}cUN-WjDB5[|4,Z5xDc" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="n=L@d/ac$|9)Oz*oWZ%$"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_print_message" id="z,|]peBW)EN];R1%P}D1"><value name="text"><shadow type="text" id="MOXeL)+r%9t)e#hG2CZ;"><field name="TEXT">National Day</field></shadow></value></block></next></block></statement></block></xml>
